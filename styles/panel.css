@@ -1,0 +1,35 @@
+.main-panel {
+    display: grid;
+    grid-template-columns: 60px 8fr 1fr;
+}
+
+.navigation-panel {
+    width: 60px;
+    height: 100vh;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+}
+
+.content-panel {
+    display: grid;
+    grid-template-rows: 1fr 2fr 10fr;
+    background-color: #c3fdb8;
+    height: 1000px;
+}
+.logo-section-div {
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    justify-self: start;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.content-title-div {
+    width: 100%;
+}
+
+/* Cotent Panel Division */
+.content {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

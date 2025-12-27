@@ -1,0 +1,113 @@
+/* Navigation Icons */
+
+/* Menu Button Icon */
+.menu-button-div {
+    flex: 1;
+    align-self: center;
+    justify-self: center;
+}
+.menu-button {
+    flex: 1;
+    width: 60px;
+    height: 60px;
+    border: none;
+    background: none;
+    align-self: center;
+    justify-self: center;
+}
+.menu-icon {
+    width: 100%;
+    height: 100%;
+}
+.menu-button:hover {
+    cursor: pointer;
+}
+.menu-button:active {
+    cursor: pointer;
+}
+
+/* Home Button Icon */
+.home-button-div {
+    flex: 1;
+    align-self: center;
+    justify-self: center;
+}
+.home-button {
+    flex: 1;
+    width: 60px;
+    height: 60px;
+    border: none;
+    background: none;
+    margin-top: 10px;
+    align-self: center;
+    justify-self: center;
+}
+.home-icon {
+    width: 100%;
+    height: 100%;
+}
+.home-button:hover {
+    cursor: pointer;
+}
+.home-button:active {
+    cursor: pointer;
+}
+
+/* About Us Button Icon */
+.about-us-button-div {
+    flex: 1;
+    align-self: center;
+    justify-self: center;
+}
+.about-us-button {
+    flex: 1;
+    width: 60px;
+    height: 60px;
+    border: none;
+    background: none;
+    margin-top: 10px;
+    align-self: center;
+    justify-self: center;
+}
+.about-us-icon {
+    width: 100%;
+    height: 100%;
+}
+.about-us-button:hover {
+    cursor: pointer;
+}
+
+.about-us-button:active {
+    cursor: pointer;
+}
+
+/* Contact Us Button Icon */
+.contact-us-button-div {
+    flex: 1;
+    align-self: center;
+    justify-self: center;
+}
+.contact-us-button {
+    flex: 1;
+    width: 60px;
+    height: 60px;
+    border: none;
+    background: none;
+    margin-top: 10px;
+    align-self: center;
+    justify-self: center;
+}
+.contact-us-icon {
+    width: 100%;
+    height: 100%;
+}
+.contact-us-button:hover {
+    cursor: pointer;
+}
+.contact-us-button:active {
+    cursor: pointer;
+}
+
+.empty-space {
+    flex: 12;
+}
